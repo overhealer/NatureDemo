@@ -5,3 +5,6 @@ Packages
 .vsconfig
 *.csproj
 NatureDemo.sln
+.vs
+Temp
+obj
